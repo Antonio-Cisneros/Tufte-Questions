@@ -1,0 +1,133 @@
+1. Graphical excellence
+
+- How do the substance properties of graph scope its display?
+By revealing all significant data points and state the descriptions of the dataset.
+
+- How graphical design affect data interpretation? 
+By a misunderstanding in the data, and data complexity is inaccessible for the communication.
+
+- Does inferential statistics avoid inferring the cleaning of a graph?
+No, inferential statistics pretend to improve the sequence order of data.
+
+- The abstraction of data graphs and charts are not always clear for the learners?
+The space of the graph will affect learner's idea if the minimization of data-ink doesn't show the data.
+
+-------------------------------------------------------
+
+2. Graphical integrity
+
+- Are misleading graphics can have unexpected changes in scale?
+It depends if there is a lacking of quantitative skills and inferential statistics aren't consider or if the graph can't maintain the quantity visual correspondency.
+
+- Is the annotation not always considered when developing a chart/graph?
+The label must be clearly and detail if the analyst aims for sharing the main idea of the graph narrative and it avoids the distrution and ambiguity on a graph.
+
+- Can anyone create a graph?
+The issues of a graph always start if the person doesn't have a clear interpretation of raw data.
+
+- Are illusions just non-gain quality to decrease the dimensions of data?
+
+Yes, it only describes the minima optical performance in the design of charts and graphs, it only tends to deception the goal of the structure.
+
+- Why the lie factor converges with the numerical measure?
+Since both terms specify the consistency of charts and graphs where it will lead to demonstrate the proportions between the surface and the numerical quantities. 
+
+-------------------------------------------------------
+
+3. Sources of Graphical Integrity and Sophistication
+
+- When are graphical casualties stated?
+When there is a lack of quantitative skills, 
+the graphic developer believe that statistical data is boring, 
+and when the people to attract doesn't understand the data.
+
+- Does design variation tend to establish graphic mediocrity?
+Yes, it will describe how bad the develop/artist understand the data, and only wants to commit 
+its unique design where constraint the audience of what the right meaning is.
+
+- Why a better relational graphic displays a better sophistication?
+It will describe how one variables affects another, since all is cause and effect 
+the graphics visualize a better understand and purpose of communication the data.
+
+- Which terms make graphical integrity and sophistication a union of complex operation?
+The substance of the graph/chart, the right evidence of statistical data, and fodness of the artist with data variation.
+
+--------------------------------------------------------
+
+4. Data-Ink and Graphical Redesign
+
+- What happen when the Data-Ink ratio is high?
+There exist an exaggeration of similarities, deception of the data graphic, and misinterpretation of the data.
+
+- Why does the 	principles of Editing and Redesign critice graphic structure?
+Since it will change all visualization of the graphic, and it will lead to create an experimental design of the essential information.
+
+- What are the benefits of erasing non-data ink?
+It provides a better color of the graphic, the selection of color is better, and data can be distinguished.
+
+
+- How does experiment design will assist the data-ink?
+While simple is the graphic, it is hardest to interpret the visualization
+
+---------------------------------------------------------
+
+5. Chartjunk: Vibrations,  Grids, and Ducks
+
+- How chart junk impact the comprehension?
+It brings a no significance difference between a plain image and charts, where an the detail gap of the data is visualize. 
+
+- What does it means Moiré pattern?
+The interference which is form when two line grid are overlapping with certain angle.
+
+- Why chart junk provide additional information to the reader than may enhance comprehension? 
+Redesinging a chart provide a higher significance on its messages and it state a better understanding of it.
+
+- How "The Duck" provide the design in a graphic?
+It display how the perspective of the chart is and how relevant is the information on it.
+
+----------------------------------------------------------
+
+6. Data-Ink Maximization and Graphical Design
+
+- Why visualization of a graph must be considered if there is a fail or success on it?
+Since it aims for the extraction of cognitive measures to identify the quantitative skills
+
+- How does the range-frame describe the encoding of data-ink?
+It is focused on the position of the horizontal line and the value of the data points.
+
+- Where do it lead the erasing and editing in a scatter plot?
+It goes to benefit the data exploratory analysis.
+
+- Which is the harderst box plot to interprete its data?
+A simple box plot, since the dot plot converge the data variation and the data-ink ratio will upon into the close to one.
+----------------------------------------------------------
+
+7. Multifunctioning Graphical Elements
+
+- What can it be represented by the data measures?
+It can represent multiple variables either quantitative or qualitative and based on the stem-leaf-plot, 
+it makes the most effective display of data.
+
+- What is the use of Chernoff's faces?
+The faces are used as data points to display multivariate data.
+
+- Why does it being use Double Functioning Labels?
+The data-base labels are being opposed to rounded the number of data labels 
+to shows the exact range of data points (maxima and minima).
+
+- Which color scale is the better for multifunctioning graphics?
+Grey scale.
+
+-----------------------------------------------------------
+
+8 - Data Density and Small Multiples
+
+
+
+
+-----------------------------------------------------------
+
+9 - Aesthetics and Technique in Data Graphical Design
+
+
+
