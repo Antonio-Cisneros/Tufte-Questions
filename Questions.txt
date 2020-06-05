@@ -122,12 +122,21 @@ Grey scale.
 
 8 - Data Density and Small Multiples
 
+-
 
+-
 
+-
 
+-
 -----------------------------------------------------------
 
 9 - Aesthetics and Technique in Data Graphical Design
 
+-
 
+-
 
+-
+
+-
