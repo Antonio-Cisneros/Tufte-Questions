@@ -122,21 +122,33 @@ Grey scale.
 
 8 - Data Density and Small Multiples
 
--
+- What are small multiples and why they are cheap?
+They are the chart sets which share the same graph metrics such as same scale, same type.
+Those are represented in a minimal detail, often using grid for the explanation and are economical since if the viewer understand the data variation of one chart
+it will understand the rest.
 
--
+- How the small multiples could be interactived links?
+By filtering the data, and when it's ready to be sorted and spot the data points which significance stand out among the rest.
 
--
+- For what the Shrink principle is use?
+Since it is method to maximize the data density, and the size of the data matrix by losing information.
 
--
+- According to Tufte, how the spark-lines must be?
+Data-intense, using a simple design and word-sized graphics.
+
 -----------------------------------------------------------
 
 9 - Aesthetics and Technique in Data Graphical Design
 
--
+- What is often see refering to simplicity of design and complexity of data?
+Graphical elegance.
 
--
+- Why graphical architecture combines with the data content?
+To approach a unique graphic where the metrics are well establish.
 
--
+- Which factors determine the choice of method for the display of quantitative materials?
+Substantive content, extensiveness of labels, and volume and ordering of data.
 
--
+- What is the main idea of friendly graphic?
+The simpler method to visualize it is the simpler method to understand it.
+
