@@ -1,12 +1,12 @@
 # 1. Graphical excellence
 
-### How do the substance properties of graph scope its display?
+### How do the substance properties of a graph scope its display?
   By revealing all significant data points and state the descriptions of the dataset.
 
 ### How graphical design affect data interpretation? 
   By a misunderstanding in the data, and data complexity is inaccessible for the communication.
 
-### Does inferential statistics avoid inferring the cleaning of a graph?
+### Does inferential statistics avoid the cleaning of a graph?
   No, inferential statistics pretend to improve the sequence order of data.
 
 ### The abstraction of data graphs and charts are not always clear for the learners?
